@@ -1,0 +1,13 @@
+Acme Corp Return Policy
+
+Acme Corp accepts returns within 30 days of purchase for a full refund, provided the item is unused and in its original packaging. To start a return, customers should visit acme.example.com/returns and enter their order number and email address.
+
+Refunds are issued to the original payment method within 5-7 business days after Acme Corp receives the returned item. Shipping costs for the original order are non-refundable unless the return is due to a defect or shipping error on Acme Corp's part.
+
+Items marked as "Final Sale" cannot be returned or exchanged. Gift cards are also non-refundable.
+
+For defective items, customers can request a free replacement instead of a refund. Replacement requests are processed within 2 business days of the defect being confirmed by Acme Corp's support team.
+
+Customers outside the United States are responsible for return shipping costs, except in cases of confirmed product defects. International returns typically take 10-15 business days to process due to customs handling.
+
+If a package is lost in transit during the return process, customers should contact Acme Corp support with their tracking number, and a replacement or refund will be issued after the carrier confirms the loss.

@@ -1,0 +1,19 @@
+Acme Corp Product FAQ - Acme SmartKettle 2.0
+
+What is the warranty period for the Acme SmartKettle 2.0?
+The SmartKettle 2.0 comes with a 2-year limited warranty covering manufacturing defects. The warranty does not cover damage from drops, misuse, or unauthorized repairs.
+
+How do I pair the SmartKettle 2.0 with the Acme app?
+Hold the power button for 5 seconds until the LED ring flashes blue, then open the Acme app, go to Settings > Add Device, and select "SmartKettle 2.0" from the list. Pairing typically takes under 30 seconds.
+
+What water capacity does the SmartKettle 2.0 support?
+The kettle holds a maximum of 1.7 liters and a minimum fill line of 0.5 liters. Boiling below the minimum fill line may trigger the auto shut-off safety feature.
+
+Can I use the SmartKettle 2.0 without the app?
+Yes. The kettle has physical buttons for power and temperature presets (Green Tea, Black Tea, Coffee, Boil) that work independently of the app or Wi-Fi connection.
+
+Why is my kettle not connecting to Wi-Fi?
+The SmartKettle 2.0 only supports 2.4GHz Wi-Fi networks, not 5GHz. Ensure your router broadcasts a 2.4GHz band and that the kettle is within 10 meters of the router during setup.
+
+Is the SmartKettle 2.0 dishwasher safe?
+The kettle base with electronics is not dishwasher safe and should never be submerged in water. The removable water reservoir and lid are dishwasher safe on the top rack only.
